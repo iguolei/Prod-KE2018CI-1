@@ -1,2 +1,0 @@
-https://github.com/keras-team/keras/blob/master/examples/mnist_mlp.py
-
